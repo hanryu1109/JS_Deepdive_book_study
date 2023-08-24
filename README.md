@@ -11,6 +11,25 @@
 - 2시간이 지나면 스터디는 종료됩니다.
   
 ## 🐻 스터디 멤버
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/0-0eong"><img src="https://avatars.githubusercontent.com/u/81373171?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+    <td align="center"><a href="#"><img src="#" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/0-0eong"><b>정준영</b></a></td>
+    <td align="center"><a href="#"><b>최준일</b></a></td>
+    <td align="center"><a href="#">조한<b></b></a></td>
+    <td align="center"><a href="#"><b>나름</b></a></td>
+    <td align="center"><a href="#"><b>이윤주</b></a></td>
+    <td align="center"><a href="#"><b>신한</b></a></td>
+  </tr>
+</table>
 
 ## 💫 진행방식
 1. 각 챕터별로 발표자가 한명 씩 배정됩니다. (발표자는 주마다 제비뽑기로 선정합니다.)
