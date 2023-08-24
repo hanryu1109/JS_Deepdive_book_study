@@ -1,4 +1,7 @@
 # 📚 모던 자바스크립트 Deep Dive 북 스터디 
+<image src="https://github.com/wn8624/JS_Deepdive_book_study/assets/81373171/33972192-0959-4b28-8d48-5fbd95f69fed" width="800px" height="800">
+
+
 
 ## 📌 스터디 목표
 - Javascript의 기본 개념과 동작원리 등을 학습합니다.
