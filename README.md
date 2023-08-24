@@ -24,7 +24,7 @@
   <tr>
     <td align="center"><a href="https://github.com/0-0eong"><b>정준영</b></a></td>
     <td align="center"><a href="#"><b>최준일</b></a></td>
-    <td align="center"><a href="https://github.com/dikum98"><b>조한</b></b></a></td>
+    <td align="center"><a href="https://github.com/dikum98"><b>조한</b></a></td>
     <td align="center"><a href="https://github.com/hanryu1109"><b>나름</b></a></td>
     <td align="center"><a href="https://github.com/leeyoonju0507"><b>이윤주</b></a></td>
     <td align="center"><a href="#"><b>신한</b></a></td>
