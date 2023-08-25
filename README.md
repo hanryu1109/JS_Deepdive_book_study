@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-## 활동사진
+## 📷활동사진
 <a href="https://github.com/0-0eong/JS_Deepdive_book_study/wiki/%ED%99%9C%EB%8F%99%EC%82%AC%EC%A7%84">활동사진</a><
 
 ## 💫 진행방식
