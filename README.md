@@ -30,6 +30,9 @@
   </tr>
 </table>
 
+## 📷활동 사진
+<a href="https://github.com/0-0eong/JS_Deepdive_book_study/wiki">Go Picture</a>
+
 ## 💫 진행방식
 1. 각 챕터별로 발표자가 한명 씩 배정됩니다. (발표자는 주마다 제비뽑기로 선정합니다.)
 2. 발표가 끝나면 발표자와 조원들간의 Q&A 시간이 시작됩니다. 
