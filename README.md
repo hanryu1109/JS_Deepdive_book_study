@@ -1,6 +1,6 @@
 # 📚 모던 자바스크립트 Deep Dive 북 스터디 
-<image src="https://github.com/wn8624/JS_Deepdive_book_study/assets/81373171/33972192-0959-4b28-8d48-5fbd95f69fed" width="800px" height="800">
 
+<image src="https://github.com/wn8624/JS_Deepdive_book_study/assets/81373171/7a88d950-e4d3-4464-bec0-ada935046771" width="800px" height="800px">
 
 
 ## 📌 스터디 목표
@@ -9,10 +9,31 @@
 
 ## 📅 학습일정
 - 월,화,수,목,금 주5회 저녁
-- 저녁 23시, 매일 1챕터씩 진행
+- 저녁 13시, 매일 1챕터씩 진행
 - 2시간이 지나면 스터디는 종료됩니다.
   
-## 👥 스터디 멤버
+## 🐻 스터디 멤버
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/0-0eong"><img src="https://avatars.githubusercontent.com/u/81373171?v=4" width="130px;" alt="준영"></a></td>
+    <td align="center"><a href="https://github.com/wnsdlf25"><img src="https://avatars.githubusercontent.com/u/102348842?v=4" width="130px"alt="준일"></a></td>
+    <td align="center"><a href="https://github.com/hanryu1109"><img src="https://avatars.githubusercontent.com/u/82071500?v=4" width="130px;" alt="나름"></a></td>
+    <td align="center"><a href="https://github.com/leeyoonju0507"><img src="https://avatars.githubusercontent.com/u/130827559?v=4" width="130px;" alt="이윤주"></a></td>
+   <td align="center"><a href="https://github.com/dikum98"><img src="https://avatars.githubusercontent.com/u/97519893?v=4" width="130px;" alt="조한"></a></td>
+    <td align="center"><a href="https://github.com/ruukr8080"><img src="https://avatars.githubusercontent.com/u/131014787?v=4" width="130px;" alt="신한"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/0-0eong"><b>정준영</b></a></td>
+    <td align="center"><a href="https://github.com/wnsdlf25"><b>최준일</b></a></td>
+    <td align="center"><a href="https://github.com/hanryu1109"><b>나름</b></a></td>
+    <td align="center"><a href="https://github.com/leeyoonju0507"><b>이윤주</b></a></td>
+    <td align="center"><a href="https://github.com/dikum98"><b>조한</b></a></td>
+    <td align="center"><a href="https://github.com/ruukr8080"><b>신한</b></a></td>
+  </tr>
+</table>
+
+## 📷활동 사진
+<a href="https://github.com/0-0eong/JS_Deepdive_book_study/wiki">Go Picture</a>
 
 ## 💫 진행방식
 1. 각 챕터별로 발표자가 한명 씩 배정됩니다. (발표자는 주마다 제비뽑기로 선정합니다.)
