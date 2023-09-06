@@ -31,7 +31,7 @@
 </table>
 
 ## 🏃🏻‍♂️ 활동 기록
-<a href="https://github.com/junjeeong/JS_Deepdive_book_study/wiki">Go 사진</a></br>
+<a href="https://github.com/junjeeong/JS_Deepdive_book_study/wiki/08.25-OT%EC%A7%84%ED%96%89">Go 사진</a></br>
 <a href="https://github.com/junjeeong/JS_Deepdive_book_study/discussions">Go 토론</a>
 
 ## 💫 진행방식
