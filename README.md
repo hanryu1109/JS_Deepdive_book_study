@@ -30,8 +30,9 @@
   </tr>
 </table>
 
-## 📷활동 사진
-<a href="https://github.com/0-0eong/JS_Deepdive_book_study/wiki">Go Picture</a>
+## 🏃🏻‍♂️ 활동 기록
+<a href="https://github.com/junjeeong/JS_Deepdive_book_study/wiki">Go 사진</a></br>
+<a href="https://github.com/junjeeong/JS_Deepdive_book_study/discussions">Go 토론</a>
 
 ## 💫 진행방식
 1. 주마다 한번씩 챕터 별 발표자를 선정합니다.
