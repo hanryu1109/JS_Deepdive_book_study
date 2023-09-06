@@ -15,14 +15,14 @@
 ## 🐻 스터디 멤버
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/0-0eong"><img src="https://avatars.githubusercontent.com/u/81373171?v=4" width="130px;" alt="준영"></a></td>
+    <td align="center"><a href="https://github.com/junjeeong"><img src="https://avatars.githubusercontent.com/u/81373171?v=4" width="130px;" alt="준영"></a></td>
     <td align="center"><a href="https://github.com/wnsdlf25"><img src="https://avatars.githubusercontent.com/u/102348842?v=4" width="130px"alt="준일"></a></td>
     <td align="center"><a href="https://github.com/hanryu1109"><img src="https://avatars.githubusercontent.com/u/82071500?v=4" width="130px;" alt="나름"></a></td>
    <td align="center"><a href="https://github.com/dikum98"><img src="https://avatars.githubusercontent.com/u/97519893?v=4" width="130px;" alt="조한"></a></td>
     <td align="center"><a href="https://github.com/ruukr8080"><img src="https://avatars.githubusercontent.com/u/131014787?v=4" width="130px;" alt="신한"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/0-0eong"><b>정준영</b></a></td>
+    <td align="center"><a href="https://github.com/junjeeong"><b>정준영</b></a></td>
     <td align="center"><a href="https://github.com/wnsdlf25"><b>최준일</b></a></td>
     <td align="center"><a href="https://github.com/hanryu1109"><b>나름</b></a></td>
     <td align="center"><a href="https://github.com/dikum98"><b>조한</b></a></td>
